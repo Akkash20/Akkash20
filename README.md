@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![An image of @akkash_h's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akkash_h)](https://holopin.io/@akkash_h)
 <!--
 **Akkash20/Akkash20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
