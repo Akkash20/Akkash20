@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings, Dev! 👋
 [![An image of @akkash_h's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akkash_h)](https://holopin.io/@akkash_h)
 <!--
 **Akkash20/Akkash20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an awesome project to showcase my skills!
+- 🌱 I’m currently learning full-stack-development-MERN
+- 🤝 I'm open to collaborating on Web Development Projects | Open Source | Hackathons
+- 💬 Ask me anything your curious about!
+- 📫 How to reach me: https://www.linkedin.com/in/akkash-h-8098a7249/
