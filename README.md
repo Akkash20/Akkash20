@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on MERN STACK DEVELOPMENT
-- 🌱 I’m currently learning about Web3 and Solidity
+- 🌱 I’m continuously learning about Web3 and Solidity
 - 🤝 I'm open to collaborating on Web Development Projects | Open Source | Hackathons
 - 💬 Ask me anything your curious about!
 - 📫 How to reach me: https://www.linkedin.com/in/akkash-h-8098a7249/
